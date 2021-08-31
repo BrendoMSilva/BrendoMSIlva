@@ -3,7 +3,7 @@
 
 **BrendoMSilva/BrendoMSIlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Frase do ano: Assim será para a tua alma o conhecimento da sabedoria; se a achares, haverá galardão para ti e não será cortada a tua esperança”. Não tenhas inveja dos homens malignos, nem desejes estar com eles
 
@@ -12,6 +12,8 @@ Frase do ano: Assim será para a tua alma o conhecimento da sabedoria; se a acha
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrendoMSilva&show_icons=true&theme=dark&hide_border=true&locale=pt-br&title_color=B3D3E8&icon_color=E61E01&text_color=F3ECE1&border_color=000000&bg_color=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoMSilva&layout=compact&theme=dark&hide_border=true&locale=pt-br&border_color=000000&bg_color=000000)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" heigth="30" />
