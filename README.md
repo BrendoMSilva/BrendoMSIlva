@@ -4,7 +4,7 @@
 
 Frase do ano: Assim será para a tua alma o conhecimento da sabedoria; se a achares, haverá galardão para ti e não será cortada a tua esperança”. Não tenhas inveja dos homens malignos, nem desejes estar com eles
 
-- 🌱 I'm currently learning JavaScript and Python
+- 🌱 I'm currently learning JavaScript, Python, Java, Node.js
 - ⚡ Cybersecurity
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrendoMSilva&show_icons=true&theme=dark&hide_border=true&locale=pt-br&bg_color=66000000)
