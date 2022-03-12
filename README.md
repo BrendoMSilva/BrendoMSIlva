@@ -29,4 +29,5 @@ Frase do ano: Assim será para a tua alma o conhecimento da sabedoria; se a acha
 <a href="https://www.linkedin.com/in/brendo-silva-5510a0196/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 [![wakatime](https://wakatime.com/badge/user/6c07e26f-be01-47a2-a76f-5063fe29bb2a.svg)](https://wakatime.com/@6c07e26f-be01-47a2-a76f-5063fe29bb2a)
