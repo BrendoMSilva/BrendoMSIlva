@@ -10,10 +10,10 @@ class SobreMim extends Desenvolvedor {
   trabalho  = 'Gran Cursos Online';
   local = 'Brasilia-Df';
 }
-class Skills extends Desenvolvedor {
-  linguagens  = ['JS, Java'];
+class HardSkills extends Desenvolvedor {
+  linguagens  = ['Java'];
   frameworks = ['React, Spring boot'];
-  SO = ['Linux, Windows'];
+  Outros = ['Linux, ingles'];
 }
 ```
 
