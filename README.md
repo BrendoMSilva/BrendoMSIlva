@@ -7,12 +7,11 @@ import Desenvolvedor from 'Brendo Silva';
 class SobreMim extends Desenvolvedor {
   nome     = 'Brendo';
   area    = 'Desenvolvedor de Software';
-  trabalho  = 'Gran Cursos Online';
   local = 'Brasilia-Df';
 }
 class HardSkills extends Desenvolvedor {
   linguagens  = ['Java'];
-  frameworks = ['React, Spring boot'];
+  frameworks = ['Spring boot'];
   Outros = ['Linux, ingles'];
 }
 ```
