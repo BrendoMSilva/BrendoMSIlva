@@ -11,7 +11,6 @@ class SobreMim extends Desenvolvedor {
 }
 class HardSkills extends Desenvolvedor {
   linguagens  = ['Java'];
-  frameworks = ['Spring boot'];
   Outros = ['Linux, ingles'];
 }
 ```
