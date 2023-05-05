@@ -27,10 +27,7 @@ class HardSkills extends Desenvolvedor {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoMSilva&layout=compact&theme=dark&hide_border=true&locale=pt-br&bg_color=66000000)
 
 -------------------------------------
-
-<br><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" heigth="30" />
-</a>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-plain-wordmark.svg" width="50" heigth="50" />
 </a>
